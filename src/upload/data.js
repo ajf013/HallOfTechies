@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Francis Ponnu Cruz I",
+    role: "Scholar Trainee",
+    image: "https://avatars.githubusercontent.com/u/19148526?v=4",
+    skills: ['js','React js','Node JS'],
+    link: [
+      "https://github.com/ajf013",
+      "https://www.linkedin.com/in/ajf013-francis-cruz/",
+      "https://twitter.com/Itsme_Ajf013",
+    ],
+  },
 ];
 
 export default data;
